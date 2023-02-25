@@ -121,7 +121,7 @@ function formaction() {
   email.value = "";
   title.value = "";
   description.value=""
-  alert("Mail Sent To: kushagar10july@gmail.com")
+  alert("Mail Sent To: devyanshbansal123@gmail.com")
 }
 
 /*==================== TESTIMONIAL ====================*/
